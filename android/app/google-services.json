@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "104809315386",
+    "project_id": "edspertid",
+    "storage_bucket": "edspertid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104809315386:android:e5acf8f517e05a1f108903",
+        "android_client_info": {
+          "package_name": "com.muhammadhamdani.edspertid.edspertid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104809315386-icgsni9d97ajrg1pvq6j31jkglmhi0qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAV2NvXZHYzuU95cA5wJkS6PMwGAjQMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104809315386-icgsni9d97ajrg1pvq6j31jkglmhi0qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104809315386-59sc420ipv14vhlr1nacv2e40ss93ncg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muhammadhamdani.edspertid.edspertid.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
